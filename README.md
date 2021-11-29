@@ -1,4 +1,5 @@
-﻿![Mobile Buy SDK](https://cloud.githubusercontent.com/assets/5244861/26374751/6895a582-3fd4-11e7-80c4-2c1632262d66.png)
+![Mobile Buy SDK](https://cloud.githubusercontent.com/assets/5244861/26374751/6895a582-3fd4-11e7-80c4-2c1632262d66.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fmobile-buy-sdk-ios.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fmobile-buy-sdk-ios?ref=badge_shield)
 
 [![Build](https://github.com/Shopify/mobile-buy-sdk-ios/workflows/Test/badge.svg?event=push)](https://github.com/Shopify/mobile-buy-sdk-ios/actions?query=workflow%3ATest)
 [![GitHub release](https://img.shields.io/github/release/shopify/mobile-buy-sdk-ios.svg?style=flat)](https://github.com/Shopify/mobile-buy-sdk-ios/releases/latest)
@@ -1645,3 +1646,6 @@ For help with the Mobile Buy SDK, see the [iOS Buy SDK documentation](https://he
 ## License [⤴](#table-of-contents)
 
 The Mobile Buy SDK is provided under an [MIT License](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fmobile-buy-sdk-ios.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fmobile-buy-sdk-ios?ref=badge_large)
